@@ -9,4 +9,4 @@ This FYP project is divided into three stages:
 **(2) Progress Report**  
 **(3) Final Report**  
 
-I have shared **Proposal** and **Progress Report** of my FYP in pdf format.
+I have shared my **Proposal** and **Progress Report** of the FYP in pdf format.
