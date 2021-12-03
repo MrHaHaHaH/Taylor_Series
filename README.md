@@ -4,11 +4,13 @@ Final Year Project (FYP)
 ## About the FYP
 My title for FYP is Recent Development and Analysis of Taylor Series.  
 
-This FYP is divided into three stages:  
+This FYP is divided into three phases:  
 **(1) Proposal**  
 **(2) Progress Report**  
 **(3) Final Report**  
 
-I have finished two stages of the FYP, and am focusing on the **Final Report** now.  
+For this project, I have to search for the recent formal sources such as journals, research papers and so on that are related to Taylor series. After that, I will analyze the research materials, and then calculate, simplify, and plot graphs of Taylor series equations from the research materials. A mathematical tool, Matlab, will be used for this project as my primary tool to help me in calculating, simplifying, and plotting graphs of Taylor series equations to produce clean and concise results.  
 
-I have shared my **Proposal** and **Progress Report** of the FYP in pdf format.
+I have shared my **Proposal**, **Progress Report** and **Final Report** of the FYP in pdf format.  
+
+I am currently working on the correction of **Final Report**.
