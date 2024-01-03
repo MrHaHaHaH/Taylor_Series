@@ -4,6 +4,7 @@ Final Year Project (FYP)
 
 ## Project Overview
 Titled 'Recent Development and Analysis of Taylor Series,' my FYP is structured across three key phases: 
+
 **(1) Proposal**  
 **(2) Progress Report**  
 **(3) Final Report**  
