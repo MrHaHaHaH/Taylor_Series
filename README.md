@@ -1,12 +1,13 @@
 # Recent Development and Analysis of Taylor Series
 Final Year Project (FYP)
 
+
 ## Project Overview
-Titled 'Recent Development and Analysis of Taylor Series,' my FYP is structured into three phases: 
- 
+Titled 'Recent Development and Analysis of Taylor Series,' my FYP is structured across three key phases: 
 **(1) Proposal**  
 **(2) Progress Report**  
 **(3) Final Report**  
 
+
 ## Project Scope
-My primary task involves sourcing recent academic materials like journals and research papers related to the Taylor series. Following this, I analyze these materials and execute calculations, simplifications, and graphical representations of Taylor series equations. Leveraging Matlab as my primary tool, I aim to produce comprehensive and visually concise results by employing it for calculation, simplification, and graph plotting of Taylor series equations.
+My primary objective revolves around gathering recent academic literature, such as journals and research papers, relating to the Taylor series. Subsequently, I analyze these materials, conducting calculations, simplifications, and graphical representations of Taylor series equations. By leveraging Matlab as my primary tool, I'm focused on generating comprehensive and visually lucid results, utilizing its capabilities for calculation, simplification, and graph plotting related to Taylor series equations.
